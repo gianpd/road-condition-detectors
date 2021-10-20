@@ -1,4 +1,5 @@
 dataset/
-RCD/
+.RCD/
 *.jpg
 *.csv
+__pycache__
